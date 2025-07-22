@@ -16,6 +16,7 @@ Each button is connected with a 10kΩ pull-down resistor to avoid floating input
 Each LED is connected with a 220Ω resistor to limit current.
 
 > Check the included circuit diagram for wiring.
+> 
 
 ## 💡 Pin Configuration
 
@@ -23,9 +24,6 @@ Each LED is connected with a 220Ω resistor to limit current.
 
 
 ## 🧠 Code
-See button_led.ino for the Arduino sketch.
-// C++ code
-//
 
 const int led1 = 13;
 const int led2 = 12;
