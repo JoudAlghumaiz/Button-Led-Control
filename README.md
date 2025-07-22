@@ -16,7 +16,7 @@ Each button is connected with a 10kΩ pull-down resistor to avoid floating input
 Each LED is connected with a 220Ω resistor to limit current.
 
 > Check the included circuit diagram for wiring.
-> 
+> https://github.com/JoudAlghumaiz/Button-Led-Control/blob/main/Fantabulous%20Snaget.pdf
 
 ## 💡 Pin Configuration
 
